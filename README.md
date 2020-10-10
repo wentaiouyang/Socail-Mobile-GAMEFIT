@@ -1,3 +1,3 @@
 # Socail-Mobile-GAMEFIT
-##DEMO
+### DEMO
 https://wentaiouyang.github.io/Socail-Mobile-GAMEFIT/.
